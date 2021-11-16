@@ -1,0 +1,72 @@
+/* CSS Document */
+body
+{
+	margin:0;
+	padding:0;
+}
+#Holder
+{
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header
+{
+	height:160px;
+	background-image:url(../assets/logo-login-register.png);
+	background-repeat:no-repeat;
+	margin-bottom:12px;
+}
+#Navbar
+{
+	height:60px;
+}
+#Content
+{
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#ContenLeft
+{
+	width:200px;
+	float:left;
+	padding-left:11px;
+	padding-top:11px;
+}
+#ContentRight
+{
+	width:680px;
+	float:right;
+}
+#PageHeading
+{
+	height:auto;
+	padding:13px;
+}
+#Footer
+{
+	height:100px;
+}
+h1
+{
+	margin:0px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#666;
+}
+h2
+{
+	margin:0px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#999;
+}
+h6
+{
+	margin:0px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#333;
+	font-size:14px;
+}
